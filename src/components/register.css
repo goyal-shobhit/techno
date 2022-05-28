@@ -1,0 +1,13 @@
+.registerForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10rem;
+  
+}
+
+.registerButton{
+    background-color:darkcyan !important;
+    color: #ffffff !important;
+}

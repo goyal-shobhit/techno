@@ -1,0 +1,13 @@
+.loginPage{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10rem;
+    padding: 2rem;
+}
+
+.loginButton{
+    background-color: rgb(255, 85, 0) !important;
+    color: #ffffff !important;
+}   
